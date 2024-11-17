@@ -1,13 +1,22 @@
-
 [
   {
-    "id": 1,
-    "text": "You are my sunshine!",
-    "date": "11/15/2024"
+    "id": 4,
+    "text": "I appreciate you for always taking care of our children who aren't biologically yours since day 1 that we moved in together.",
+    "date": "11/17/2024"
+  },
+  {
+    "id": 3,
+    "text": "Jessi, I appreciate you for how much you do for our family. Your work within our family allows my career to thrive and gives me a sense of calm and peace when I'm at home.",
+    "date": "11/17/2024"
   },
   {
     "id": 2,
-    "text": "Thanks for always being there.",
+    "text": "Jessi, I really appreciate coming home to a clean house with a new rug and clean bedding after sleeping on a couch all week!",
+    "date": "11/17/2024"
+  },
+  {
+    "id": 1,
+    "text": "Jessi, I appreciate hearing your truth even when you are hurt. I know things feel raw sometimes, but I appreciate that you have the courage and trust me enough to share.",
     "date": "11/16/2024"
   }
 ]
