@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preshatecha/static/css/main.0aef9f03.css",
+    "main.js": "/preshatecha/static/js/main.87a865df.js",
+    "index.html": "/preshatecha/index.html",
+    "main.0aef9f03.css.map": "/preshatecha/static/css/main.0aef9f03.css.map",
+    "main.87a865df.js.map": "/preshatecha/static/js/main.87a865df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aef9f03.css",
+    "static/js/main.87a865df.js"
+  ]
+}
