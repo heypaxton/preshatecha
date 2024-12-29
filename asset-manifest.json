@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/preshatecha/static/css/main.0aef9f03.css",
-    "main.js": "/preshatecha/static/js/main.27bb47eb.js",
+    "main.js": "/preshatecha/static/js/main.8c692d7e.js",
     "index.html": "/preshatecha/index.html",
     "main.0aef9f03.css.map": "/preshatecha/static/css/main.0aef9f03.css.map",
-    "main.27bb47eb.js.map": "/preshatecha/static/js/main.27bb47eb.js.map"
+    "main.8c692d7e.js.map": "/preshatecha/static/js/main.8c692d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.0aef9f03.css",
-    "static/js/main.27bb47eb.js"
+    "static/js/main.8c692d7e.js"
   ]
 }
